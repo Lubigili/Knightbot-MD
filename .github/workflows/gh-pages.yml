@@ -3,7 +3,7 @@ name: Deploy Web (gh-pages)
 on:
   push:
     branches:
-      - cursor/rewrite-mobile-quran-learning-app-246b
+      - main
   workflow_dispatch:
 
 permissions:
